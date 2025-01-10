@@ -7,8 +7,9 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Click here to tweak this text however you want.</p>",
-      "description": "This text is entirely editable, tailor it freely."
+      "title": "<p>Commercial Painters Near Me</p>",
+      "description": "Find Painters Fast",
+      "image": "https://data.decoassets.com/moorhouse/0e1ed36a-24a9-451a-8cef-ce7e39b20ef5/5_painting_hacks.webp"
     },
     {
       "__resolveType": "site/sections/MainPost.tsx",
